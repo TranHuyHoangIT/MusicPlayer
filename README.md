@@ -2,7 +2,7 @@
 This is a music website project developed by me.
 
 ## Purpose of creating this website:
-I love music, so I created this website to cater to my own music needs as well as everyone else's.
+I love music, so I created this website for myself and others to enjoy music comfortably. Additionally, I built this website to enhance my programming skills and unleash my creativity in designing the website according to my own preferences.
 
 ## Features:
 1) Random Song
